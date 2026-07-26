@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, Developers!👋
 
 <!--
 **mariammohamed43839-spec/mariammohamed43839-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
